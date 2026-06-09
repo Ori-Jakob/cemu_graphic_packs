@@ -1,0 +1,19 @@
+[Definition]
+titleIds = 000500001019C800,000500001019E600,000500001019E500
+name = Flycam
+path = "The Legend of Zelda: Twilight Princess HD/Cheats/Flycam"
+description = Fly camera cheat for TPHD. ZL+ZR+L3+R3 to activate. L3 exits and returns camera to Link. R3 exits and teleports Link to camera. R/L adjust speed.
+version = 7
+
+[Default]
+$flycam = 0
+
+[Preset]
+category = Flycam
+name = Off
+$flycam = 0
+
+[Preset]
+category = Flycam
+name = On
+$flycam = 1
